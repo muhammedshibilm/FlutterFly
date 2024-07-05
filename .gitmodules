@@ -1,0 +1,3 @@
+[submodule "FlutterFly_flutter"]
+	path = FlutterFly_flutter
+	url = https://github.com/muhammedshibilm/FlutterFly_flutter.git
